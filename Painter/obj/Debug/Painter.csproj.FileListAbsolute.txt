@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\bin\Debug\Painter.exe.config
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\bin\Debug\Painter.exe
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\bin\Debug\Painter.pdb
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.Painter.resources
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.exe
+C:\Users\danie\OneDrive\שולחן העבודה\project\Painter\Painter\obj\Debug\Painter.pdb
